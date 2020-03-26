@@ -1,7 +1,9 @@
 # Vous voulez contribuer ?
 Nous cherchons des volontaires qui aimeraient contribuer aux initiatives [Open Source](https://linux-senegal.github.io/opensource.guide/) liées au COVID19 Sénégal.
 
-[Pour contribuer, venez en parler avec nous sur Telegram !](https://t.me/joinchat/FTjDLBzMD8810utCHGBiIg)
+Pour contribuer,
+* [Venez en parler avec nous sur Telegram !](https://t.me/joinchat/FTjDLBzMD8810utCHGBiIg)
+* [Ou postez votre contribution ici](https://github.com/OpenCOVID19-Senegal/Comment-Contribuer/issues)
 
 ## Ouvrir votre travail ?
 Il n’y a pas de moment idéal pour ouvrir votre travail. Vous pouvez partager...

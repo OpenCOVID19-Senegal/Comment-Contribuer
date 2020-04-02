@@ -19,6 +19,8 @@ Il n’y a pas de moment idéal pour ouvrir votre travail. Vous pouvez partager.
 ### Open Data
 
 * [Covid19 Tableau de bord](https://github.com/OpenCOVID19-Senegal/Covid19-Tableau-de-bord), Tableau de bord de suivi de l’épidémie de coronavirus.
+* [Covid19 Data](https://github.com/OpenCOVID19-Senegal/Covid19-Data), Données de l’épidémie de coronavirus au Sénégal
+* [Scraping cartosantesen](https://github.com/OpenCOVID19-Senegal/scraping-cartosantesen), Extraction données situation du Covid-19 au Sénégal_Desktop
 
 ### Fabrication
 
